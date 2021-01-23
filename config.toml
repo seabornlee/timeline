@@ -1,6 +1,6 @@
 baseURL = "https://timeline.seabornlee.cn"
 title   = "Timeline"
-languageCode = "en-us"
+languageCode = "zh-CN"
 theme = "timeline"
 
 PygmentsCodeFences = true
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "timeline"
+  name = "Seaborn Lee"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -81,7 +81,7 @@ disableHugoGeneratorInject = false
   justifyContent = false  # Set "text-align: justify" to .post-content.
 
   # Default theme "light" or "dark"
-  defaultTheme = "dark"
+  defaultTheme = "light"
   themeColor = "#252627"
 
   # Colors for favicons
@@ -91,7 +91,7 @@ disableHugoGeneratorInject = false
     theme = "#252627"
 
   [params.logo]
-    logoText     = "$"
+    logoText     = "#"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -134,11 +134,6 @@ disableHugoGeneratorInject = false
     subtitle  = "Timeline"
     weight    = 1
     copyright = ''
-
-  [languages.fr]
-    subtitle  = "Timeline"
-    weight    = 2
-    copyright = '<a href="https://github.com/s4n7h0/hugo-theme-timeline/blob/main/LICENSE" target="_blank" rel="noopener">MIT</a>'
 
 [menu]
   [[menu.main]]
