@@ -58,7 +58,7 @@ disableHugoGeneratorInject = false
   keywords = "李小波,Seaborn Lee,Thoughtworks"
   images = [""]
 
-  homeSubtitle = "timeline template for hugo"
+  homeSubtitle = "分享我的成长经历，如果对你有所启发，我感到万分荣幸"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
