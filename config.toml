@@ -1,5 +1,5 @@
 baseURL = "https://timeline.seabornlee.cn"
-title   = "Timeline"
+title   = "李小波 - 卓有成效的工程师"
 languageCode = "zh-CN"
 theme = "timeline"
 
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Seaborn Lee"
+  name = "小波老西"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -54,8 +54,8 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Timeline hugo template for your work experience, researches, achievement and more"
-  keywords = "timeline hugo template"
+  description = "小波老西的成长经历，卓有成效的工程师实践版"
+  keywords = "李小波,Seaborn Lee,Thoughtworks"
   images = [""]
 
   homeSubtitle = "timeline template for hugo"
