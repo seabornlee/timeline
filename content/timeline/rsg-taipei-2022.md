@@ -1,9 +1,11 @@
 ---
-title: "加入 Smart Token Labs，远程工作"
-date: 2022-01-03T12:16:41+08:00
+title: "Regional Scrum Gather 台北"
+date: 2022-11-05T14:00:00+08:00
 ---
 
-以 Android 工程师的身份加入，负责 Android 端 AlphaWallet 产品迭代，提升稳定性，用户增长。
+直播用 TDD 的方式编写一个微信群助手机器人，分享要点：
+1. 尽早端到端运行软件，上手进行探索性测试，加深对需求的理解
+2. 分离关注点，通过面向对象设计原则，把复杂逻辑剥离到技术框架之外
+3. 用单元测试驱动复杂业务逻辑的实现
 
-- https://smarttokenlabs.com/
-- https://alphawallet.com
+https://rsg.taipei/
