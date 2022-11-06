@@ -1,5 +1,5 @@
 ---
-title: "Regional Scrum Gather 台北"
+title: "Regional Scrum Gathering 台北"
 date: 2022-11-05T14:00:00+08:00
 ---
 
