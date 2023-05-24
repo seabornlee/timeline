@@ -1,5 +1,5 @@
 baseURL = "https://timeline.seabornlee.cn"
-title   = "李小波 - 卓有成效的工程师"
+title   = "李浪溪的时间线"
 languageCode = "zh-CN"
 theme = "timeline"
 
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "小波老西"
+  name = "小浪老溪"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -54,8 +54,8 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "小波老西的成长经历，卓有成效的工程师实践版"
-  keywords = "李小波,Seaborn Lee,Thoughtworks"
+  description = "小浪老溪的成长经历"
+  keywords = "李浪溪,李小波,Seaborn Lee,Thoughtworks"
   images = [""]
 
   homeSubtitle = "分享我的成长经历，如果对你有所启发，我感到万分荣幸"
